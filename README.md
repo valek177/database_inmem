@@ -1,5 +1,4 @@
 # database_inmem
-In memory database with async replication
+In memory key-value database with async replication.
 
-Задача: реализовать In-memory key-value базу данных с асинхронной репликацией.
-
+![image](https://github.com/user-attachments/assets/a5ec1413-27cd-49d3-bac0-a97ef4de21b5)
